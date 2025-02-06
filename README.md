@@ -19,3 +19,4 @@ Functionality for editing and deleting books.
 Fetch API or Axios for communicating with the Flask backend.
 Integration
 The React frontend will send requests to the Flask backend via API calls (e.g., GET, POST, PUT, DELETE). Flask will process these requests, interact with the database, and return JSON responses to the frontend, ensuring seamless data flow.
+![image](https://github.com/user-attachments/assets/3a086cff-6a48-4d7b-9344-dd788dd4e5ce)
