@@ -1,4 +1,4 @@
-#react-flask-book-data
+react-flask-book-data
 Using Flask for Backend and React for Frontend in Building a Simple Book Data Web Application
 
 Flask, a lightweight Python web framework, is commonly used for backend development, while React, a JavaScript library, is popular for building interactive user interfaces on the frontend. Combining these two technologies allows for the creation of a simple book data web application with efficient data handling and a responsive UI.
